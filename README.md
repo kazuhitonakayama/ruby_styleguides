@@ -5,7 +5,7 @@ Rubyに関するスタイルガイドをまとめていきたい！っていう�
 
 皆さん是非Pull Requestお願いします🙇‍♂️
 
-## Company
+## Ruby
 ### cookpad
 https://github.com/cookpad/styleguide
 
