@@ -1,7 +1,7 @@
-# ruby_styleguides
-This is platform for collecting styleguides of Ruby.
+# styleguides
+This is platform for collecting styleguides of languages.
 Please send a pull request!
-Rubyに関するスタイルガイドをまとめていきたい！っていうレポジトリです🙇‍♂️
+言語に関するスタイルガイドをまとめていきたい！っていうレポジトリです🙇‍♂️
 
 皆さん是非Pull Requestお願いします🙇‍♂️
 
