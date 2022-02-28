@@ -7,7 +7,22 @@ Please send a pull request!
 
 ## Ruby
 ### cookpad
-https://github.com/cookpad/styleguide
+https://github.com/cookpad/styleguide/blob/master/ruby.en.md
 
 ### Airbnb
 https://github.com/airbnb/ruby
+
+### Github
+https://web.archive.org/web/20160410033955/https://github.com/styleguide/ruby
+
+### Rubocop
+https://github.com/rubocop/ruby-style-guide
+
+## Python
+### cookpad
+https://github.com/cookpad/styleguide/blob/master/python.en.md
+
+## javascript
+### Airbnb
+https://github.com/airbnb/javascript
+
