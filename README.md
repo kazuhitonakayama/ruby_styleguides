@@ -1,6 +1,6 @@
 # styleguides
 This is platform for collecting styleguides of languages.
-Please send a pull request!
+Please send a pull request!  
 言語に関するスタイルガイドをまとめていきたい！っていうレポジトリです🙇‍♂️
 
 皆さん是非Pull Requestお願いします🙇‍♂️
