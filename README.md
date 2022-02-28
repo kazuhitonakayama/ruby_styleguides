@@ -22,6 +22,9 @@ https://github.com/rubocop/ruby-style-guide
 ### cookpad
 https://github.com/cookpad/styleguide/blob/master/python.en.md
 
+### MicroAd
+https://developers.microad.co.jp/entry/2021/10/04/063000 
+
 ## javascript
 ### Airbnb
 https://github.com/airbnb/javascript
