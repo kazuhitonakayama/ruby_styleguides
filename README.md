@@ -12,6 +12,9 @@ https://github.com/cookpad/styleguide/blob/master/ruby.en.md
 ### Airbnb
 https://github.com/airbnb/ruby
 
+### Shopify
+https://github.com/Shopify/ruby-style-guide
+
 ### Github
 https://web.archive.org/web/20160410033955/https://github.com/styleguide/ruby
 
